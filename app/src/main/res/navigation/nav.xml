@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/newsFragment">
+
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.example.bookstore.View.CategoriesFragment"
+        android:label="fragment_categoris"
+        tools:layout="@layout/fragment_categories" />
+    <fragment
+        android:id="@+id/entertainmentsFragment"
+        android:name="com.example.bookstore.View.BasketFragment"
+        android:label="fragment_basket"
+        tools:layout="@layout/fragment_basket" />
+    <fragment
+        android:id="@+id/userProileFragment"
+        android:name="com.example.bookstore.View.ProfileFragment"
+        android:label="fragment_proile"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>
