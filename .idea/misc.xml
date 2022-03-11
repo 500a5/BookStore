@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/bsandroid/BookStore/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/bsandroid/BookStore/app/src/main/res/layout/fragment_basket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/bsandroid/BookStore/app/src/main/res/layout/list_item_basket.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/500a5/AndroidStudioProjects/BookStore/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/500a5/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_basket.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/500a5/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_categories.xml" value="0.36666666666666664" />
